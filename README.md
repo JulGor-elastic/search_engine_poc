@@ -877,10 +877,11 @@ POST /products_v5/_search
   "fields": ["title", "description", "category", "tags"],
   "_source": "false"
 }
-
-
 ```
 
+From Discover, we can see that the dataset contains only 4 products relevant to the above query and we found them thanks to BM25 + renrank. Use the following query in Discovery to verify it:
+
+  > (title:bolsillos or description:bolsillos) and category.keyword : Faldas and tags.keyword: "azul"
 
 ### Semantic Search as a Recommendation Engine
 
