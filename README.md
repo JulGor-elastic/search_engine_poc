@@ -9,6 +9,7 @@ Topics covered in this version:
 * Index mapping
 * Analyzers and normalizers
 * Textual search with BM25 (query DSL)
+* Relevance tuning
 * Semantic search
 * Reranking
 * A basic recommendation engine
