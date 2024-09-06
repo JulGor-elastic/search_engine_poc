@@ -930,7 +930,7 @@ Thanks to the people who have helped me with this project.
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top"><a href="https://github.com/ocuil"><img src="https://avatars.githubusercontent.com/u/8036150?v=4&s=100" width="100px;" alt="Alejandro Sánchez (Ale)"/><br /><sub><b>Alejandro Sánchez (Ale)</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Akentcdodds" title="Reviewed Pull Requests">👀</a> </td>
+      <td align="center" valign="top"><a href="https://github.com/ocuil"><img src="https://avatars.githubusercontent.com/u/8036150?v=4&s=100" width="100px;" alt="Alejandro Sánchez (Ale)"/><br /><sub><b>Alejandro Sánchez (Ale)</b></sub></a><br /><a href="#" title="Reviewer">👀</a> </td>
     </tr>
   </tbody>
 </table>
