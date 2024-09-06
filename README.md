@@ -921,3 +921,15 @@ GET products_v5/_search
 
 20. Launch the query once it is complete and check that the products returned are “similar” to the original (which is returned in the first position). This list of results can serve as a recommendation to visit other similar products.
 
+
+## Contributors ✨
+
+Thanks to the people who have helped me with this project.
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top"><a href="https://github.com/ocuil"><img src="https://avatars.githubusercontent.com/u/8036150?v=4&s=100" width="100px;" alt="Alejandro Sánchez (Ale)"/><br /><sub><b>Alejandro Sánchez (Ale)</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Akentcdodds" title="Reviewed Pull Requests">👀</a> </td>
+    </tr>
+  </tbody>
+</table>
